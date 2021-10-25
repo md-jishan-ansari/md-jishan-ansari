@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-jishan-ansari" alt="md-jishan-ansari" /></a> </p>
 
-- 🔭 I’m currently working on **Memories**
+- 🔭 I’m currently working on [memories-mern-project](https://github.com/md-jishan-ansari/memories-mern-project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-jishan-ansari-849191202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-jishan-ansari-849191202/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/md_jishan_ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md_jishan_ansari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jishanansari21064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jishanansari21064" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jishanansari21064/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jishanansari21064/practice" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
