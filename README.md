@@ -87,7 +87,7 @@
 > Food delivery apps built during internship at KnockOnce.
 - Stack: `React.js`, `Node.js`
 
-_For more, visit my [portfolio](https://md-jishan-ansari.technotes4u.com/projects)_
+_For more, visit my [portfolio](https://md-jishan-ansari.technotes4u.com)_
 
 ---
 
