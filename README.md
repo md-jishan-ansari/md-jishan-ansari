@@ -100,6 +100,7 @@ _For more, visit my [portfolio](https://md-jishan-ansari.technotes4u.com)_
 <p align="left">
 <a href="https://linkedin.com/in/md-jishan-ansari-849191202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-jishan-ansari-849191202" height="30" width="40" /></a>
 </p>
+
 ---
 
 ### 📄 Resume
